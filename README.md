@@ -6,8 +6,11 @@
 This is the base new players spawn in and the location of the boss stones
 
 ### Portals
-**sg-X** Return Portal - for emergency use.  *Usage Notes: If possible create two portals when making a new connection to sg-x, one to return with, and one that can be anchored to a new portal.  This way a return portal can be made in a base and the sg-x tage removed from the sites portal, freeing sg-x for use.*
-**Unassigned Portal** Keyed into your destination and go.
+**sg-X** Emergency/Exploration Return Portal - for emergency use.  
+
+*Usage Notes: If possible create two portals when making a new connection to sg-x, one to return with, and one that can be anchored to a new portal.  This way a return portal can be made in a base and the sg-x tag removed from the source sites portal, freeing sg-x for re-use.  If impossible (mistlands/ashlands murdered) rename sg-x portal to sequential number (example sg-x-1) and update wiki. *
+
+**Unassigned Portal** Key into your destination and go, unkey when done. 
 
 ## Merchant Base
 The merchant is located at this base.  Not intended for building.  The base is nestled under a rock.  This is a large forest biome so if needed could be used as a place to harvest forest resources. 
